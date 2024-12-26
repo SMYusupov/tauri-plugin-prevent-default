@@ -118,7 +118,7 @@ The `unstable-native-windows` feature must be enabled.
 
 ```toml
 [dependencies]
-tauri-plugin-prevent-default = { version = "1.0", features = ["unstable-native-windows"] }
+tauri-plugin-prevent-default = { version = "1.0.1", features = ["unstable-native-windows"] }
 ```
 
 ```rust
